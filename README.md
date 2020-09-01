@@ -1,5 +1,6 @@
 # Space_Invaders_JavaFx
-Space Invaders game
-#
-Basic Space Invaders arcade game with sound
+Space Invaders arcade game with music
+# Controls
 mouse control
+#Screenshot
+![Screenshot](screenshot.png)
